@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The children's example. Shewing how one Mrs Johnson's child of Barnet, was tempted by the Devil to forsake God, and follow the ways of other wicked children, who used to swear, tell lies, and disobey their parents: how this pretty innocent child resisting Satan, was comforted by an angel from heaven, who warned her of her approaching death: together with her dying words, desiring young children not to forsake God, least Satan would gain power over them.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B20193</idno><idno type="EEBO-CITATION">99888008</idno>
+  <idno type="VID">193063</idno>
+  <idno type="EEBO-PROQUEST">2240896335</idno>
+  
+            <idno type="STC">Wing C3869</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.9[769]</idno>
+            <idno type="STC">ESTC R228820</idno>
+            <idno type="PROQUEST">ocm99888008</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888008e"/>
+            <note>(EEBO-TCP ; phase 2, no. B20193)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 193063)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A6:1[464])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The children's example. Shewing how one Mrs Johnson's child of Barnet, was tempted by the Devil to forsake God, and follow the ways of other wicked children, who used to swear, tell lies, and disobey their parents: how this pretty innocent child resisting Satan, was comforted by an angel from heaven, who warned her of her approaching death: together with her dying words, desiring young children not to forsake God, least Satan would gain power over them.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts)  </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by Wing (CD-ROM, 1996).</note>
+                  <note>Verse: "Ye parents, that love children dear,".</note>
+                  <note>Printed in two columns.</note>
+                  <note>Imperfect: stained.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Children --  Religious life --  Poetry --  Early works to 1800.</term>
+               <term type="topical_term">Devil --  Poetry --  Early works to 1800.</term>
+               <term type="topical_term">Piety --  Poetry --  Early works to 1800.</term>
+               <term type="topical_term">Ballads, English --  17th century.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:193063:1"/>
+            <head>The CHILDREN's EXAMPLE. Shewing, how one Mrs <hi>Johnson</hi>'s Child of <hi>Barnet,</hi> was tempted by the Devil to forsake GOD, and follow the Ways of other wicked Children, who used to Swear, tell Lies, and disobey their Parents: How this pretty innocent Child resisting Satan, was comforted by an Angel from Heaven, who warned her of her approaching Death: Together with her dying Words, desiring young Children not to forsake God, least Satan would gain Power over them.</head>
+            <opener>To the Tune of <hi>Bleeding Heart.</hi>
+            </opener>
+            <p>
+               <figure>
+                  <figDesc>depiction of angel</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <figDesc>depiction of child and woman</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <figDesc>depiction of woman praying</figDesc>
+               </figure>
+            </p>
+            <div type="part">
+               <lg>
+                  <l>YE Parents, that love Children dear,</l>
+                  <l>To what I shall relate give Ear;</l>
+                  <l>And if you'd have them Heaven partake,</l>
+                  <l>You'll buy this Sheet for their sweet Sake.</l>
+               </lg>
+               <lg>
+                  <l>In <hi>Barnet</hi> liv'd a loving Pair,</l>
+                  <l>A tender Wife and Husband dear,</l>
+                  <l>Whom cruel Death of Life beguil'd,</l>
+                  <l>And left his tender Wife with Child.</l>
+               </lg>
+               <lg>
+                  <l>It prov'd a Daughter, therefore she,</l>
+                  <l>Was brought up very tenderly;</l>
+                  <l>And as she did grow up in Time,</l>
+                  <l>Her temper seem'd like one divine.</l>
+               </lg>
+               <lg>
+                  <l>So sweet, so modest and so fair,</l>
+                  <l>That few could with this Child compare,</l>
+                  <l>For when her words had Silence broke,</l>
+                  <l>You would have thought an angel spoke.</l>
+               </lg>
+               <lg>
+                  <l>She was her Mother's Darling bright,</l>
+                  <l>In Learning she took great Delight,</l>
+                  <l>But above all her Mind was given,</l>
+                  <l>To find the speedy Way to Heaven.</l>
+               </lg>
+               <lg>
+                  <l>Whatever Time that she could spare,</l>
+                  <l>She spent to Heaven in fervent Prayer,</l>
+                  <l>If she one Farthing had in Store,</l>
+                  <l>She freely gave it to the Poor.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>Now observe good People, this heavenly Child reproved some wicked Children who were cursing and swearing.</head>
+               <lg>
+                  <l>AS she did come from School one Day,</l>
+                  <l>She saw some Children were at Play,</l>
+                  <l>And wickedly they did blaspheme,</l>
+                  <l>And take God's holy Name in vain.</l>
+               </lg>
+               <lg>
+                  <l>Says she, dear Children do forbear,</l>
+                  <l>What makes you thus to curse and swear?</l>
+                  <l>At School you never learn'd the same,</l>
+                  <l>Therefore I think you are to blame.</l>
+               </lg>
+               <lg>
+                  <l>Besides, what will your Parent's say,</l>
+                  <l>When they hear how you go astray?</l>
+                  <l>I'm sure their Hearts would troubled be,</l>
+                  <l>To know you liv'd so wickedly.</l>
+               </lg>
+               <lg>
+                  <l>Don't you fear that God who gave</l>
+                  <l>His Son's dear Blood our Lives to save;</l>
+                  <l>Remembers every sinful Word,</l>
+                  <l>You'll answer for before the Lord.</l>
+               </lg>
+               <lg>
+                  <l>Then started up a little Elf,</l>
+                  <l>Saying, Mistress, pray go mind yourself,</l>
+                  <l>We'll lead our Lives this merry Way,</l>
+                  <l>In Spite of what you do or say.</l>
+               </lg>
+               <lg>
+                  <l>We value not our Parents dear,</l>
+                  <l>The Church we never will come near:</l>
+                  <l>For there's no Heaven to enter in,</l>
+                  <l>No Hell to punish us for Sin.</l>
+               </lg>
+               <lg>
+                  <l>A Gentleman has told us so,</l>
+                  <l>Who gave us money so to do;</l>
+                  <l>So hold your tongue, and do'nt us teaze;</l>
+                  <l>For Madam, we'll do what we please.</l>
+               </lg>
+               <lg>
+                  <l>The tender Infant weeping, said,</l>
+                  <l>It is the Devil I'm afraid,</l>
+                  <l>That bids you God's Commandments break,</l>
+                  <l>That he your precious Souls may take;</l>
+               </lg>
+               <lg>
+                  <l>But, dear Companions, have a Care,</l>
+                  <l>You fall not in this woful Snare;</l>
+                  <l>Take this advice, I do implore,</l>
+                  <l>Or else I'll not come near you more.</l>
+               </lg>
+               <lg>
+                  <l>One taking this in great Disgrace,</l>
+                  <l>Did strike her o'er the pretty Face,</l>
+                  <l>Saying, Young Mistress, hence depart,</l>
+                  <l>We scorn you from our very Heart.</l>
+               </lg>
+               <lg>
+                  <l>Oh! God foregive you, she did say,</l>
+                  <l>Though thus you strike me I will pray,</l>
+                  <l>That your Souls may in Heaven dwell,</l>
+                  <l>But now I bid you all farewell.</l>
+               </lg>
+               <lg>
+                  <l>Tears from her Cheeks then did glide,</l>
+                  <l>Her Mother as'd her why she cry'd;</l>
+                  <l>What! did your Mistress you chastise,</l>
+                  <l>That you come Home with weeping Eyes.</l>
+               </lg>
+               <lg>
+                  <l>My dearest Mother, she did say,</l>
+                  <l>Some Children I have seen to Day,</l>
+                  <l>Who will not God's Commandments keep</l>
+                  <l>And 'tis for their poor Souls I weep</l>
+               </lg>
+               <lg>
+                  <l>For when I blam'd them for their Oaths,</l>
+                  <l>They gave me many cruel Blows:</l>
+                  <l>But let them do whate'er they will,</l>
+                  <l>Their precious-Souls I'll pray for still.</l>
+               </lg>
+               <lg>
+                  <l>Her Mother took her in her Arms,</l>
+                  <l>My dear God keep thee from all Harms,</l>
+                  <l>Don't weep, my Child, be not distress'd,</l>
+                  <l>They'll answer for their Wickedness.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>Now observe how the Devil appeared to the Child, and would have enticed her to be as wicked as other Children were.</head>
+               <lg>
+                  <l>AS this Child went to Church one Day,</l>
+                  <l>Thro' the Church-yard she took her way,</l>
+                  <l>Where lo! the Devil came and said,</l>
+                  <l>Where are you going, pretty Maid?</l>
+               </lg>
+               <lg>
+                  <l>To School, I'm going, Sir, said she,</l>
+                  <l>Pish, Child don't mind the same, saith he;</l>
+                  <l>But hast to your Companions dear,</l>
+                  <l>And learn to lie, and curse, and swear.</l>
+               </lg>
+               <lg>
+                  <l>They bravely spend their Time in Play,</l>
+                  <l>God they don't value, no, not they:</l>
+                  <l>It is a Fable, Child, he cry'd;</l>
+                  <l>At which his Cloven Foot she 'spy'd.</l>
+               </lg>
+               <lg>
+                  <l>I'm sure there is a God, said she,</l>
+                  <l>Who from your Power will keep me free:</l>
+                  <l>And if you should this thing deny,</l>
+                  <l>Your cloven Foot gives me the Lie.</l>
+               </lg>
+               <lg>
+                  <l>Satan, avoid, hence out of hand,</l>
+                  <l>In Name of Jesus I command,</l>
+                  <l>At which the Devil instantly,</l>
+                  <l>In Flames of fire away did fly.</l>
+               </lg>
+               <lg>
+                  <l>Soon after came an Angel fair,</l>
+                  <l>Who says to her, why weeps my Dear,</l>
+                  <l>What does your Time too swiftly run,</l>
+                  <l>On Dial which you look upon?</l>
+               </lg>
+               <lg>
+                  <l>If it be so, be not beguil'd,</l>
+                  <l>You only die to live my Child;</l>
+                  <l>At which the pretty harmless Maid,</l>
+                  <l>Thus to the shining Angel said,</l>
+               </lg>
+               <lg>
+                  <l>Dear Sir, I'm not afraid of Death,</l>
+                  <l>For if God took me from the Earth,</l>
+                  <l>Satan would then cease to torment,</l>
+                  <l>A harmless Child and innocent.</l>
+               </lg>
+               <lg>
+                  <l>O Sir, he was but here just now,</l>
+                  <l>Without God's Help what shall I do?</l>
+                  <l>But Heaven, I hope, will hear my Prayers,</l>
+                  <l>And dry my Cheeks from weeping Tears.</l>
+               </lg>
+               <lg>
+                  <l>The Angel took her by the Hand,</l>
+                  <l>Sweet Child I come by Heaven's Command,</l>
+                  <l>To comfort you in this sad Hour,</l>
+                  <l>The Devil shall not have a Power</l>
+               </lg>
+               <lg>
+                  <l>To tempt you more while you have breath</l>
+                  <l>Too good you are to live on Earth,:</l>
+                  <l>But dearest Child, Continue on,</l>
+                  <l>In Heaven for you there is a Throne,</l>
+               </lg>
+               <lg>
+                  <l>Where Christ doth sit in Glory bright;</l>
+                  <l>In such as you he takes delight,</l>
+                  <l>May Blessings e'er on you remain,</l>
+                  <l>So farewel till we meet again.</l>
+               </lg>
+               <lg>
+                  <l>This pretty Infant straightway went home,</l>
+                  <l>And told her Mother what was done,</l>
+                  <l>Who wept, because she did foresee,</l>
+                  <l>Her Child not long with her to be.</l>
+               </lg>
+               <lg>
+                  <l>In a Month's Time she did complain,</l>
+                  <l>That she did feel tormenting Pain:</l>
+                  <l>The Doctors were sent for with Speed,</l>
+                  <l>To help the Child in time of Need.</l>
+               </lg>
+               <lg>
+                  <l>Her Sickness it was most severe,</l>
+                  <l>And yet this pretty harmless Dear,</l>
+                  <l>Would never utter one Complaint,</l>
+                  <l>But seemed like a dying Saint.</l>
+               </lg>
+               <lg>
+                  <l>And when the Doctors gave her o'er,</l>
+                  <l>Nothing could grieve this dear Child more;</l>
+                  <l>Than when her Mother's Tears she'd spy,</l>
+                  <l>Dear Mammy for me do not cry.</l>
+               </lg>
+               <lg>
+                  <l>Come kiss your Child and don't complain,</l>
+                  <l>We only part to meet again:</l>
+                  <l>My Soul doth seem in Cage to be,</l>
+                  <l>But Death, I hope, will set it free.</l>
+               </lg>
+               <lg>
+                  <l>To my Companions tell this truth,</l>
+                  <l>To serve the Lord in time of Youth,</l>
+                  <l>That so their Sins may be forgiven,</l>
+                  <l>And when they die may go to Heaven.</l>
+               </lg>
+               <lg>
+                  <l>So spoke the dying Infant dear,</l>
+                  <l>When lo! the Angel did appear,</l>
+                  <l>Have Mercy, Lord! she then did cry,</l>
+                  <l>And-comfort me before I die.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>Now mark the sweet Behaviour of the Child to her Mother, and the Heavenly Angel, who came to visit her before she died.</head>
+               <lg>
+                  <l>LOOK Mother dear, I pray behold,</l>
+                  <l>My Angel shining bright as Gold,</l>
+                  <l>Where is he Child, I cannot him see,</l>
+                  <l>O there he is, 'tis he, 'tis he!</l>
+               </lg>
+               <lg>
+                  <l>Speak, lovely Angel, take me hence,</l>
+                  <l>Thy words exceed all Eloquence,</l>
+                  <l>Sweet Child, said he, thy Days are done,</l>
+                  <l>I by Minutes fly, thy glass in run;</l>
+               </lg>
+               <lg>
+                  <l>I'm coming Lord, the Child did say,</l>
+                  <l>One last Embrace, dear Mother pray</l>
+                  <l>Oh! think I am not snatch'd too soon,</l>
+                  <l>But love my Memory when I'm gone.</l>
+               </lg>
+               <lg>
+                  <l>Methinks I hear my passing Bell,</l>
+                  <l>My Friends all taking their Farewel,</l>
+                  <l>Sweet Lord, receive my Soul, she said:</l>
+                  <l>Thus died this harmless pretty Maid.</l>
+               </lg>
+               <lg>
+                  <l>When lo! was heard a charming Sound,</l>
+                  <l>As though a Saint in Heaven was crown'd,</l>
+                  <l>And at her Funeral likewise there</l>
+                  <l>Was heard sweet Music in the Air.</l>
+               </lg>
+               <lg>
+                  <l>The People wept for this dear Child.</l>
+                  <l>It was so heavenly meek and mild,</l>
+                  <l>But God has made her now his own,</l>
+                  <l>Where Satan's Power cannot be snown,</l>
+               </lg>
+               <lg>
+                  <l>Now, Children dear, strive piously,</l>
+                  <l>Like her to live, like her to die;</l>
+                  <l>Then God will bless you while on Earth,</l>
+                  <l>And make you happy after Death.</l>
+               </lg>
+            </div>
+            <trailer>FIFIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
